@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Moreira
+## Olá! Eu sou o Gabriel Moreira, mas pode me chamar de gabo
  
  <div>
   <a href="https://github.com/gabomoreira">
