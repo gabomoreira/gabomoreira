@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Gabriel Moreira</h1>
 <h3 align="center">A full-stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **TypeScript, JavaScript, Redux Toolkit, MaterialUI, Styled-Components, AdonisJS, PostgresSQL and Docker**
+- 🔭 I’m currently working on **TypeScript, JavaScript, React Native, Redux Toolkit, MaterialUI, Styled-Components, AdonisJS, PostgresSQL and Docker**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Unit, Integration and E2E tests**
 
 - 📫 How to reach me **contatogabomoreira@gmail.com**
 
