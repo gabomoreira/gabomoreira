@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TypeScript, JavaScript, React Native, Redux Toolkit, MaterialUI, Styled-Components, AdonisJS, PostgresSQL and Docker**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Unit, Integration, E2E Tests**
 
 - 📫 How to reach me **contatogabomoreira@gmail.com**
 
