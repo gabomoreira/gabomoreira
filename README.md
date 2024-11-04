@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Gabriel Moreira</h1>
-<h3 align="center">A full-stack developer from Brazil</h3>
+<h3 align="center">A full-stack developer from Alagoas, Brazil</h3>
 
-- 🔭 I’m currently working on **TypeScript, JavaScript, React Native, Redux Toolkit, MaterialUI, Styled-Components, AdonisJS, PostgresSQL and Docker**
+- 🔭 I’m currently working on **TypeScript, JavaScript, NodeJS, AdonisJS, React, React Native, Redux Toolkit, MaterialUI, Styled-Components, PostgresSQL, MongoDB and Docker**
 
-- 🌱 I’m currently learning **Java, Spring Boot, Spring Data JPA, Spring Security, TDD**
+- 🌱 I’m currently learning **VueJS**
 
 - 📫 How to reach me **contatogabomoreira@gmail.com**
 
-- ⚡ Fun fact **I LOVE PROGRAMMING**
+- ⚡ Fun fact **I LOVE COFFEE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
